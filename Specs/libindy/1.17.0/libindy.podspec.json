@@ -15,7 +15,7 @@
     "ios": "15.0"
   },
   "source": {
-    "http": "https://localhost:1313/libindy.zip"
+    "http": "http://localhost:1313/libindy.zip"
   },
   "source_files": "*.h",
   "vendored_libraries": "*.a",
