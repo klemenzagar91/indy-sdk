@@ -1,0 +1,23 @@
+{
+  "name": "libindy",
+  "version": "1.17.0",
+  "summary": "Summary TODO.",
+  "description": "Description TODO.",
+  "homepage": "TODO",
+  "license": {
+    "type": "Apache License 2.0",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Daniel Hardman": "daniel.hardman@evernym.com"
+  },
+  "platforms": {
+    "ios": "15.0"
+  },
+  "source": {
+    "http": "https://localhost:1313/libindy.zip"
+  },
+  "source_files": "*.h",
+  "vendored_libraries": "*.a",
+  "requires_arc": false
+}
