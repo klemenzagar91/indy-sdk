@@ -4,10 +4,7 @@
   "summary": "Summary TODO.",
   "description": "Description TODO.",
   "homepage": "TODO",
-  "license": {
-    "type": "Apache License 2.0",
-    "file": "LICENSE"
-  },
+  "license": {},
   "authors": {
     "Daniel Hardman": "daniel.hardman@evernym.com"
   },
@@ -15,9 +12,10 @@
     "ios": "15.0"
   },
   "source": {
-    "http": "http://localhost:1313/libindy.zip"
+    "http": "http://localhost:1313/libindy.xcframework.zip"
   },
   "source_files": "*.h",
   "vendored_libraries": "*.a",
-  "requires_arc": false
+  "requires_arc": false,
+  "static_framework": true
 }
