@@ -14,7 +14,7 @@
   "source": {
     "http": "https://github.com/klemenzagar91/libindy/raw/main/libindy.tar.gz"
   },
-  "source_files": "*.h",
-  "vendored_libraries": "*.a",
+  "source_files": "include/*.h",
+  "vendored_libraries": "lib/*.a",
   "requires_arc": false
 }
