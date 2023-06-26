@@ -12,7 +12,7 @@
     "ios": "15.0"
   },
   "source": {
-    "http": "https://github.com/klemenzagar91/libindy/raw/main/libindy.zip"
+    "http": "https://github.com/klemenzagar91/libindy/raw/main/libindy.tar.gz"
   },
   "source_files": "*.h",
   "vendored_libraries": "*.a",
