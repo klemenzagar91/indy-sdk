@@ -12,10 +12,9 @@
     "ios": "15.0"
   },
   "source": {
-    "http": "http://localhost:1313/libindy.xcframework.zip"
+    "http": "https://github.com/klemenzagar91/libindy/raw/main/libindy.zip"
   },
   "source_files": "*.h",
   "vendored_libraries": "*.a",
-  "requires_arc": false,
-  "static_framework": true
+  "requires_arc": false
 }
